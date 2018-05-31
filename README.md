@@ -1,3 +1,5 @@
+Forked backup of https://github.com/drewm/mailchimp-api
+
 MailChimp API
 =============
 
